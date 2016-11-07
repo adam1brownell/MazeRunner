@@ -1,3 +1,3 @@
 # MazeRunner:
 
-Utilize queues and stacks data structures to see if a maze is solvable
+C++ code that utilize queue and stack data structures to see if a maze is solvable
